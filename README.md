@@ -1,8 +1,4 @@
 ﻿# UCP1_PAW_20190140083
-![alt text](contact.png)
-![alt text](database.png)
-![alt text](web.png)
-![alt text](post.png)
-![alt text](put.png)
-![alt text](delete.png)
-![alt text](get.png)
+
+(https://github.com/PAW-AntaraTI501P/UCP1_PAW_20190140083/blob/main/ucp/ucp.md)
+
