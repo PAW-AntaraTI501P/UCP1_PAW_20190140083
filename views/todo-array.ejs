@@ -1,0 +1,12 @@
+<h1>Todo dari Array Lokal</h1>
+<p>Data ini diambil langsung dari array, bukan database.</p>
+
+<ul class="list-group">
+  <% todos.forEach(todo => { %>
+    <li class="list-group-item">
+      <strong><%= todo.id %>.</strong> <%= todo.task %>
+    </li>
+  <% }) %>
+</ul>
+
+<a href="/" class="btn btn-primary mt-3">Kembali ke Beranda</a>
